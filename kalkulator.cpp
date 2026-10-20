@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //TO je opcija A
+=======
+// Ovo je Verzija B
+>>>>>>> opcija-B
 
 #include <iostream>
 #include <string>
