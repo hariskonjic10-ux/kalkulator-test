@@ -1,4 +1,4 @@
-//testna izmena
+//TO je opcija A
 
 #include <iostream>
 #include <string>
