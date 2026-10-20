@@ -1,4 +1,4 @@
-//testna izmena
+// Ovo je Verzija B
 
 #include <iostream>
 #include <string>
