@@ -26,6 +26,12 @@ int main() {
             } else {
                 cout << "Error: Division by zero!" << endl;
             }
+            case '%':
+            if(b != 0) {
+                cout << "Result: " << a % b << endl;
+            } else {
+                cout << "Error: Division by zero!" << endl;
+            }
             break;
         default:
             cout << "Error: Invalid operator!" << endl;
