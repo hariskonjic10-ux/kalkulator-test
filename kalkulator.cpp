@@ -1,5 +1,5 @@
 //TO je opcija A
-
+//sprememba
 #include <iostream>
 #include <string>
 using namespace std;
