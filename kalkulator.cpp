@@ -1,5 +1,5 @@
 //TO je opcija A
-//sprememba
+//gpg test
 #include <iostream>
 #include <string>
 using namespace std;
