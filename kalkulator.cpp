@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 //TO je opcija A
-=======
-// Ovo je Verzija B
->>>>>>> opcija-B
 
 #include <iostream>
 #include <string>
@@ -35,6 +31,15 @@ int main() {
                 cout << "Result: " << a % b << endl;
             } else {
                 cout << "Error: Division by zero!" << endl;
+            }
+            break;
+            case '^':
+            {
+                int result = 1;
+                for(int i = 0; i < b; i++) {
+                    result *= a;
+                }
+                cout << "Result: " << result << endl;
             }
             break;
         default:
